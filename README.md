@@ -8,7 +8,7 @@ Increase the number of pets label using stepper.
 App presents an alert when the "Introduce Self" button is tapped.
 
 # gif
- ![](https://imgur.com/a/9VkCxru)
+ ![](https://imgur.com/a/9VkCxru.gif)
  
 
 
